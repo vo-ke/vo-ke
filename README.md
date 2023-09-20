@@ -2,7 +2,7 @@
 - 💭 I’m interested in tech 'nd innovations
 - 🌱 Currently learning Javascript btw
 - 🧠 Trust the process 👍
-- 📫 you can reach me on X via [@variant_vee](Twitter.com/variant_vee)
+- 📫 you can reach me on X via [@variant_vee](https://Twitter.com/variant_vee)
 
 <!---
 vo-ke/vo-ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
